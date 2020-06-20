@@ -1,0 +1,290 @@
+Polskie litery 
+Li≠te≠ra (X)HTML Sek≠wen≠cja Java≠Script Sek≠wen≠cja CSS1 Uwagi 
+encja dzie≠siÍtna encja hex encja sym≠bo≠liczna 
+π &#261; &#x105; ó \u0105 \000105 *  
+Ê &#263; &#x107; ó \u0107 \000107 *  
+Í &#281; &#x119; ó \u0119 \000119 *  
+≥ &#322; &#x142; ó \u0142 \000142 *  
+Ò &#324; &#x144; ó \u0144 \000144 *  
+Û &#243; &#xF3; &oacute; \u00F3 \xF3 \0000F3 *  
+ú &#347; &#x15B; ó \u015B \00015B *  
+ü &#378; &#x17A; ó \u017A \00017A *  
+ø &#380; &#x17C; ó \u017C \00017C *  
+• &#260; &#x104; ó \u0104 \000104 *  
+∆ &#262; &#x106; ó \u0106 \000106 *  
+  &#280; &#x118; ó \u0118 \000118 *  
+£ &#321; &#x141; ó \u0141 \000141 *  
+— &#323; &#x143; ó \u0143 \000143 *  
+” &#242; &#xF2; &Oacute; \u00F2 \xF2 \0000F2 *  
+å &#346; &#x15A; ó \u015A \00015A *  
+è &#377; &#x179; ó \u0179 \000179 *  
+Ø &#379; &#x17B; ó \u017B \00017B *  
+Litery inne (niewielki wybÛr) 
+Li≠te≠ra (X)HTML Sek≠wen≠cja Java≠Script Sek≠wen≠cja CSS Uwagi 
+encja dzie≠siÍtna encja hex encja sym≠bo≠liczna 
+a &#224; &#xE0; &agrave; \u00E0 \xE0 \0000E0 a propos, tete a tete 
+e &#234; &#xEA; &ecirc; \u00EA \xEA \0000EA 
+A &#192; &#xC0; &Agrave; \u00C0 \xC0 \0000C0 
+E &#202; &#xCA; &Ecirc; \u00CA \xCA \0000CA 
+È &#233; &#xE9; &eacute; \u00E9 \xE9 \0000E9 * tournÈe 
+… &#201; &#xC9; &Eacute; \u00C9 \xC9 \0000C9 
+? &#7885; &#x1ECD; ó \u1ECD \001ECD Ay? (Ayo.; o z kropkπ pod spodem, moøna pisaÊ teø w formie ≥aciÒskie o, po ktÛrym bezpoúrednio wystÍpuje kropka) 
+‰ &#228; &#xE4; &auml; \u00E4 \xE4 \0000E4 * W wyjπtkowych wypadkach moøna teø przedstawiÊ jako ae 
+ˆ &#246; &#xF6; &ouml; \u00F6 \xF6 \0000F6 * W wyjπtkowych wypadkach moøna teø przedstawiÊ jako oe 
+¸ &#252; &#xFC; &uuml; \u00FC \xFC \0000FC * W wyjπtkowych wypadkach moøna teø przedstawiÊ jako ue 
+ﬂ &#223; &#xDF; &szlig; \u00DF \xDF \0000DF * W wyjπtkowych wypadkach moøna teø przedstawiÊ jako ss 
+ƒ &#196; &#xC4; &Auml; \u00C4 \xC4 \0000C4 * W wyjπtkowych wypadkach moøna teø przedstawiÊ jako AE 
+÷ &#214; &#xD6; &Ouml; \u00D6 \xD6 \0000D6 * W wyjπtkowych wypadkach moøna teø przedstawiÊ jako OE 
+‹ &#220; &#xDC; &Uuml; \u00DC \xDC \0000DC * W wyjπtkowych wypadkach moøna teø przedstawiÊ jako UE 
+Ogonki ñ same znaki diakrytyczne, ktÛre moøna uøyÊ z literami ≥aciÒskimi 
+Odpowiednik tzw. martwych klawiszy w mechanicznych maszynach do pisania, jedynπ rÛønicπ jest sposÛb uøycia: ogonek wstawia siÍ za literÍ ≥aciÒskπ, podczas gdy w maszynie najpierw naciska≥o siÍ klawisz martwy z ogonkiem, a potem klawisz z literπ ≥aciÒskπ 
+Znak (X)HTML Sek≠wen≠cja Java≠Script Sek≠wen≠cja CSS Uwagi 
+encja dzie≠siÍtna encja hex encja sym≠bo≠liczna 
+ ¥ &#769; &#x301; ó \u0301 \000301 kreska (akut, jak np. w literach Û, ú i ü) 
+ ? &#808; &#x328; ó \u0328 \000328 ogonek (jak w literach π, Í) 
+ ˇ &#775; &#x307; ó \u0307 \000307 kropka (jak w literze ø) 
+ ® &#776; &#x308; ó \u0308 \000308 umlaut (jak np. w literach ‰, ˆ, ¸) i diereza (jak np. w literze Î) 
+ ` &#768; &#x300; ó \u0300 \000300 kreska odwrotna (gravis, jak w literze a) 
+ ∏ &#807; &#x327; ó \u0327 \000327 cÈdille (jak w literze Á) 
+ ^ &#770; &#x302; ó \u0302 \000302 daszek (cyrkumfleks, jak np. w literze ‚) 
+ ~ &#771; &#x303; ó \u0303 \000303 tylda (jak np. w literze n) 
+ ∞ &#778; &#x30A; ó \u030A \00030A kÛ≥ko (jak np. w literze ˘) 
+ ? &#779; &#x30B; ó \u030B \00030B podwÛjny akcent akutowy (jak np. w literze ˚) 
+ ° &#780; &#x30C; ó \u030C \00030C h·Ëek (jak np. w literach Ë, ö) 
+ Ø &#772; &#304; ó \u0304 \000304 nadkreúlnik (jak np. w literach a, e) 
+ ¢ &#774; &#x306; ó \u0306 \000306 (jak np. w literze „) 
+ ? &#806; &#x326; ó \u0326 000326 przecinek pod spodem (jak np. w literach ?, ?) 
+ ? &#803; &#x323; ó \u0323 \000323 kropka pod spodem (jak np. w literze ?) 
+Spacje i znaki interpunkcyne 
+Znak (X)HTML Sek≠wen≠cja Java≠Script Sek≠wen≠cja CSS Uwagi 
+encja dzie≠siÍtna encja hex encja sym≠bo≠liczna 
+| |  &#160; &#xA0; &nbsp; \u00A \xA0 \0000A0 * Spacja twarda (nie≥amiπca), zwykle wstawiana w postaci encji, by odrÛøniÊ od spacji zwyk≥ej (dotyczy to teø innych spacji). 
+| |  &#8194; &#x2002; &ensp; \u2002 \00202 Spacja o szerokoúci pÛ≥pauzy 
+| |  &#8195; &#x2003; &emsp; \u2003 \002003 Spacja o szerokoúci pauzy 
+| |  &#8196; &#x2004; ó \u2004 \002004 Spacja o szerokoúci ? pauzy 
+| |  &#8197; &#x2005; ó \u2005 \002005 Spacja o szerokoúci 1 pauzy 
+| |  &#8198; &#x2006; ó \u2006 \002006 Spacja o szerokoúci ? pauzy 
+|?|  &#8201; &#x2009; &thinsp; \u2009 \002009 Cienka spacja (o szerokoúci miÍdzy ? a ? pauzy) 
+|?|  &#8202; &#x200A; ó \u200A \00200A Spacja supercienka (wÍøsza od spacji cienkiej) 
+|?|  &#8203; &#x200B; ó \u200B \00200B Spacja o zerowej szerokoúci (pozwala zaznaczyÊ miejsce moøliwego prze≥amania d≥ugiego ciπgu podobnie jak dywiz warunkowy, ale bez wstawiania dywizu w miejscu przeniesienia) 
+ñ &#8211; &#x2013; &ndash; \u2013 \002013 PÛ≥pauza 
+ó &#8212; &#x2014; &mdash; \u2014 \002014 Pauza 
+≠  &#173; &#xAD; &shy; \u00AD \xAD \0000AD * Dywiz warunkowy (oznacza miejsce moøliwego przeniesienia bardzo d≥ugiego wyrazu ñ w razie koniecznoúci d≥ugi wyraz jest dzielony w miejscu wstawienia tego znaku i jego koÒcowa czÍúÊ jest przenoszona do nowej linii, a w miejscu przeniesienia na koÒcu pierwszej czÍúci wyrazu wstawiany jest dywiz, znak ten jest normalnie niewidoczny), zwykle wstawiany w postaci encji, by odrÛøniÊ od zwyk≥ego dywizu (-) 
+- &#8208; &#x2010; ó \u2010 \002010 Dywiz (odpowiednik znaku - na klawiaturze, rzadko stosowany) 
+- &#8209; &#x2011; ó \u2011 \002011 Dywiz twardy (stosowany w miejscu, w ktÛrym nie naleøy ≥amaÊ d≥ugiego ciπgu, np. w numerach telefonicznych: 123-45-67), zwykle wstawiany w postaci encji, by odrÛøniÊ od zwyk≥ego dywizu (-) 
+Ñ &#8222; &#x201E; &bdquo; \u201E \00201E Prawid≥owy cudzys≥Ûw otwierajπcy 
+î &#8221; &#x201D; &rdquo; \u201D \00201D Prawid≥owy cudzys≥Ûw zamykajπcy 
+í &#8217; &#x2019; &rsquo; \u2019 \002019 Prawid≥owy apostrof 
+´ &#171; &#xAB; &laquo; \u00AB \xAB \0000AB Prawid≥owy wewnÍtrzny cudzys≥Ûw otwierajπcy (oznaczenie poczπtku cytatu wewnπtrz cytatu) 
+ª &#187; &#xBB; &raquo; \u00BB \xBB \0000BB Prawid≥owy wewnÍtrzny cudzys≥Ûw zamykajπcy (oznaczenie koÒca cytatu wewnπtrz cytatu) 
+" &#34; &#x22; &quot; \u0022 \x22 \000022 * W rozumieniu polskich zasad typografii nie jest to znak cudzys≥owu, a dodatkowo zgodnie z uzusem moøe to byÊ jedynie cudzys≥Ûw zamykajπcy! (choÊ z uwagi na niedostÍpnoúÊ prawid≥owych cudzys≥owÛw na typowych uk≥adach klawiatur, a dodatkowo w dawnych czasach nieobecnoúÊ ich w kodowaniach uøywanych dla jÍzyka polskiego, takich jak Mazovia, CP852 i ISO-8859-2, znak ten jest powszechnie stosowany w charakterze cudzys≥owu, rÛwnieø otwierajπcego). W dokumentach (X)HTML w pewnych sytuacjach znak ten bezwzglÍdnie musi byÊ zakodowany jako encja. 
+' &#39; &#x27; (&apos;) \u0027 \x27 \000027 * Encja symboliczna zdefiniowana wy≥πcznie w XHTML, nieobs≥ugiwana przez Internet Explorer. W rozumieniu polskich zasad typografii nie jest to znak apostrofu (choÊ z uwagi na niedostÍpnoúÊ apostrofu na typowych uk≥adach klawiatur, a dodatkowo w dawnych czasach nieobecnoúÊ jego w kodowaniach uøywanych dla jÍzyka polskiego takich, jak Mazovia, CP852 i ISO-8859-2, znak ten jest powszechnie stosowany w charakterze apostrofu), ani tym bardziej cudzys≥owu! W dokumentach (X)HTML w pewnych sytuacjach znak ten bezwzglÍdnie musi byÊ zakodowany jako encja. 
+Ö &#8230; &#x2026; &hellip; \u2026 \002026  
+? &#8210; &#x2012; ó \u2012 \002012 Kreska liczbowa uøywana do oznaczania przedzia≥u liczbowego, np. 32?56, rzadko stosowana (normalnie uøywana jest pÛ≥pauza albo jest znak - z klawiatury) 
+Symbole matematyczne i techniczne 
+Sym≠bol (X)HTML Sek≠wen≠cja Java≠Script Sek≠wen≠cja CSS Uwagi 
+encja dzie≠siÍtna encja hex encja sym≠bo≠liczna 
+◊ &#215; &#xD7; &times; \u00D7 \xD7 \0000D7 * Znak mnoøenia 
+˜ &#247; &#xF7; &divide; \u00F7 \xF7 \0000F7 * Znak dzielenia 
+/ &#8260; &#x2044; &frasl; \u2044 \002044 Kreska u≥amkowa 
+/ &#8725; &#x2215; ó \u2215 \002215 Alternatywny znak dzielenia 
+- &#8722; &#x2212; &minus; \u2212 \002212 Znak minusa (odejmowania lub oznaczenie liczby ujemnej) 
+< &#60; &#x3C; &lt; \u003C \x3C \00003C * Znak mniejszoúci ñ w treúci dokumentu (X)HTML bezwzglÍdnie musi byÊ zakodowany w postaci encji 
+> &#62; &#x3E; &gt; \u003E \x3E \00003E * Znak wiÍkszoúci ñ w treúci dokumentu (X)HTML musi byÊ zakodowany w postaci encji 
+´ &#8810; &#x226A; ó \u226A \00226A Znacznie mniejsze niø, nie myliÊ ze znakiem wewnÍtrznego cudzys≥owu 
+ª &#8811; &#x226B; ó \u226B \00226B Znacznie wiÍksze niø, nie myliÊ ze znakiem wewnÍtrznego cudzys≥owu 
+? &#8814; &#x226E; ó \u226E \00226E Nie mniejsze niø 
+? &#8815; &#x226F; ó \u226F \00226F Nie wiÍksze niø 
+? &#8776; &#x2248; &asymp; \u2248 \002248 RÛwnoúÊ przybliøona 
+? &#8804; &#x2264; &le; \u2264 \002264 Mniejsze lub rÛwne 
+? &#8805; &#x2265; &ge; \u2265 \002265 WiÍksze lub rÛwne 
+? &#8800; &#x2260; &ne; \u2260 \002260 Nie rÛwna siÍ 
+? &#8730; &#x221A; &radic; \u221A \00221A Znak pierwiastka (kwadratowego) 
+? &#8731; &#x221B; ñ \u221B \00221B Znak pierwiastka trzeciego stopnia 
+? &#8254; &#x203E; ó \u203E \00203E Pozioma kreska znaku pierwiastka 
+? &#8960; &#x2300; ó \u2300 \002300 årednica (nie myliÊ z symbolem zbioru pustego) 
+? &#8710; &#x2206; ó \u2206 \002206 Przyrost, zmiana (duøa delta; nie myliÊ z greckπ literπ) 
+? &#8734; &#x221E; &infin; \u221E \00221E Symbol nieskoÒczonoúci 
+? &#8486; &#x2126; ó \u2126 \002126 Symbol oma (nie myliÊ z wielkπ greckπ literπ omega) 
+µ &#181; &#xB5; &micro; \u00B5 \xB5 \0000B5 Symbol przedrostka mikro (nie myliÊ z greckπ ma≥π literπ mi) 
+â &#8240; &#x2030; &permil; \u2030 \002030  
+∞ &#176; &#xB0; &deg; \u00B0 \xB0 \0000B0 * StopieÒ 
+' &#8242; &#x2032; &prime; \u2032 \002032 Minuta kπtowa lub stopa (ang. jednostka miary) 
+î &#8243; &#x2033; &Prime; \u2033 \002033 Sekunda kπtowa lub cal 
+¨ &#172; &#xAC; &not; \u00AC \xAC \0000AC Negacja (logiczne NOT). W Polsce uøywa siÍ tradycyjnie tyldy (~) 
+? &#8743; &#x2227; &and; \u2227 \002227 Koniunkcja (logiczne AND) 
+? &#8744; &#x2228; &or; \u2228 \002228 Alternatywa (logiczne OR) 
+? &#8891; &#x22BB; ó \u22BB \0022BB Alternatywa wykluczajπca (logiczne XOR) 
+? &#8712; &#x2208; &isin; \u2208 \002208 Naleøy do 
+? &#8713; &#x2209; &notin; \u2209 \002209 Nie naleøy do 
+? &#8715; &#x220B; &ni; \u220B \00220B Zawiera w sobie element 
+? &#8746; &#x222A; &cup; \u222A \00222A Suma zbiorÛw 
+? &#8745; &#x2229; &cap; \u2229 \002229 PrzekrÛj zbiorÛw 
+? &#8834; &#x2282; &sub; \u2282 \002282 Zawiera siÍ w 
+? &#8836; &#x2284; &nsub; \u2284 \002284 Nie zawiera siÍ w 
+? &#8835; &#x2283; &nsub; \u2283 \002283 Zawiera 
+? &#8704; &#x2200; &forall; \u2200 \002200 Kwantyfikator ogÛlny. W Polsce tradycyjnie uøywa siÍ znaku przypominajπcego duøy znak koniunkcji 
+? &#8707; &#x2203; &exist; \u2203 \002203 Kwantyfikator szczegÛ≥owy. W Polsce tradycyjnie uøywa siÍ znaku przypominajπcego duøy znak alternatywy 
+ÿ &#8709; &#x2205; &empty; \u2205 \002205 ZbiÛr pusty (nie myliÊ z symbolem úrednicy) 
+? &#960; &#x3C0; &pi; \u03C0 \0003C0 3,14159265358979323Ö (jednoczeúnie ma≥a grecka litera pi) 
+L &#8735; &#x221F; ó \u221F \00221F kπt prosty 
+? &#8736; &#x2220; &ang; \u2220 \002220 kπt ostry 
+? &#8737; &#x2221; ó \u2221 \002221 kπt z ≥ukiem 
+? &#945; &#x3B1; &alpha; \u03B1 \0003B1 alfa 
+ﬂ &#946; &#x3B2; &beta; \u03B2 \0003B2 beta 
+? &#947; &#x3B3; &gamma; \u03B3 \0003B3 gamma 
+? &#8741; &#x2225; ó \u2225 \002225 rÛwnoleg≥oúÊ 
+? &#8742; &#x2226; ó \u2226 \002226 nierÛwnoleg≥oúÊ 
+U≥amki 
+Znak (X)HTML Sek≠wen≠cja Java≠Script Sek≠wen≠cja CSS Uwagi 
+encja dzie≠siÍtna encja hex encja sym≠bo≠liczna 
+? &#8539; &#x215B; ó \u215B \00215B U≥amek zwyk≥y 1/8 
+? &#8537; &#x2159; ó \u2159 \002159 U≥amek zwyk≥y 1/6 
+? &#8533; &#x2155; ó \u2155 \002155 U≥amek zwyk≥y 1/5 
+1 &#188; &#xBC; &frac14; \u00BC \xBC \0000BC U≥amek zwyk≥y 1/4 
+? &#8531; &#x2153; ó \u2153 \002153 U≥amek zwyk≥y 1/3 
+? &#8540; &#x215C; ó \u215C \00215C U≥amek zwyk≥y 3/8 
+? &#8534; &#x2156; ó \u2156 \002156 U≥amek zwyk≥y 2/5 
+1 &#189; &#xBD; &frac12; \u00BD \xBD \0000BD U≥amek zwyk≥y 1/2 
+? &#8535; &#x2157; ó \u2157 \002157 U≥amek zwyk≥y 3/5 
+? &#8541; &#x215D; ó \u215D \00215D U≥amek zwyk≥y 5/8 
+? &#8532; &#x2154; ó \u2154 \002154 U≥amek zwyk≥y 2/3 
+3 &#190; &#xBE; &frac34; \u00BE \xBE \0000BE U≥amek zwyk≥y 3/4 
+? &#8536; &#x2158; ó \u2158 \002158 U≥amek zwyk≥y 4/5 
+? &#8538; &#x215A; ó \u215A \00215A U≥amek zwyk≥y 5/6 
+? &#8542; &#x215E; ó \u215E \00215E U≥amek zwyk≥y 7/8 
+? &#8543; &#x215F; ó \u215F \00215F Jedynka z kreskπ u≥amkowπ uøywana jako licznik w sk≥adanych u≥amkach zwyk≥ych (w po≥πczeniu z liczbπ w dolnym indeksie jako mianownik, np. 1/7: ?7, moøna teø stosowaÊ liczbÍ o zmniejszonej wysokoúci: ?7) 
+Cyfry i inne znaki w gÛrnym i dolnym indeksie 
+Znak (X)HTML Sek≠wen≠cja Java≠Script Sek≠wen≠cja CSS Uwagi 
+encja dzie≠siÍtna encja hex encja sym≠bo≠liczna 
+∞ &#8304; &#x2070; ó \u2070 \002070 0 w gÛrnym indeksie 32=9 
+1 &#185; &#xB9; &sup1; \u00B9 \xB9 \0000B9 1 w gÛrnym indeksie 
+2 &#178; &#xB2; &sup2; \u00B2 \xB2 \0000B2 2 w gÛrnym indeksie 
+3 &#179; &#xB3; &sup3; \u00B3 \xB3 \0000B3 3 w gÛrnym indeksie 
+4 &#8308; &#x2074; ó \u2074 \002074 4 w gÛrnym indeksie 
+5 &#8309; &#x2075; ó \u2075 \002075 5 w gÛrnym indeksie 
+6 &#8310; &#x2076; ó \u2076 \002076 6 w gÛrnym indeksie 
+7 &#8311; &#x2077; ó \u2077 \002077 7 w gÛrnym indeksie 
+8 &#8312; &#x2078; ó \u2078 \002078 8 w gÛrnym indeksie 
+? &#8313; &#x2079; ó \u2079 \002079 9 w gÛrnym indeksie 
+? &#8319; &#x207F; ó \u207F \00207F Ma≥e n w gÛrnym indeksie 
+? &#8314; &#x207A; ó \u207A \00207A Plus w gÛrnym indeksie 
+? &#8315; &#x207B; ó \u207B \00207B Minus w gÛrnym indeksie 
+? &#8317; &#x207D; ó \u207D \00207D Lewy nawias w gÛrnym indeksie 
+? &#8318; &#x207E; ó \u207E \00207E Prawy nawias w gÛrnym indeksie 
+0 &#8320; &#x2080; ó \u2080 \002080 0 w dolnym indeksie H2O C2H5OH 
+1 &#8321; &#x2081; ó \u2081 \002081 1 w dolnym indeksie 
+2 &#8322; &#x2082; ó \u2082 \002082 2 w dolnym indeksie 
+3 &#8323; &#x2083; ó \u2083 \002083 3 w dolnym indeksie 
+4 &#8324; &#x2084; ó \u2084 \002084 4 w dolnym indeksie 
+5 &#8325; &#x2085; ó \u2085 \002085 5 w dolnym indeksie 
+6 &#8326; &#x2086; ó \u2086 \002086 6 w dolnym indeksie 
+7 &#8327; &#x2087; ó \u2087 \002087 7 w dolnym indeksie 
+8 &#8328; &#x2088; ó \u2088 \002088 8 w dolnym indeksie 
+9 &#8329; &#x2089; ó \u2089 \002089 9 w dolnym indeksie 
+Strza≥ki 
+Znak (X)HTML Sek≠wen≠cja Java≠Script Sek≠wen≠cja CSS Uwagi 
+encja dzie≠siÍtna encja hex encja sym≠bo≠liczna 
+ã &#8592; &#x2190; &larr; \u2190 \002190 <- 
+^ &#8593; &#x2191; &uarr; \u2191 \002191 Strza≥ka pojedyncza w gÛrÍ 
+õ &#8594; &#x2192; &rarr; \u2192 \002192 -> 
+° &#8595; &#x2193; &darr; \u2193 \002193 Strza≥ka pojedyncza w dÛ≥ 
+- &#8596; &#x2194; &harr; \u2194 \002194 <-> 
+| &#8597; &#x2195; ó \u2195 \002195 Strza≥ka pojedyncza dwustronna pionowa 
+? &#8598; &#x2196; ó \u2196 \002196 Strza≥ka pojedyncza skoúna w kier. gÛrnego lewego rogu 
+? &#8599; &#x2197; ó \u2197 \002197 Strza≥ka pojedyncza skoúna w kier. gÛrnego prawego rogu 
+? &#8600; &#x2198; ó \u2198 \002198 Strza≥ka pojedyncza skoúna w kier. dolnego prawego rogu 
+? &#8601; &#x2199; ó \u2199 \002199 Strza≥ka pojedyncza skoúna w kier. dolnego lewego rogu 
+? &#8646; &#x21C6; ó \u21C6 \0021C6 Strza≥ka w lewo nad strza≥kπ w prawo 
+? &#8656; &#x21D0; &lArr; \u21D0 \0021D0 <= 
+? &#8657; &#x21D1; &uArr; \u21D1 \0021D1 PodwÛjna strza≥ka w gÛrÍ 
+? &#8658; &#x21D2; &rArr; \u21D2 \0021D2 => 
+? &#8659; &#x21D3; &dArr; \u21D3 \0021D3 PodwÛjna strza≥ka w dÛ≥ 
+? &#8660; &#x21D4; &hArr; \u21D4 \0021D4 <=> 
+? &#8661; &#x21D5; ó \u21D5 \0021D5 Strza≥ka podwÛjna dwustronna pionowa 
+? &#8662; &#x21D6; ó \u21D6 \0021D6 Strza≥ka podwÛjna skoúna w kier. gÛrnego lewego rogu 
+? &#8663; &#x21D7; ó \u21D7 \0021D7 Strza≥ka podwÛjna skoúna w kier. gÛrnego prawego rogu 
+? &#8664; &#x21D8; ó \u21D8 \0021D8 Strza≥ka podwÛjna skoúna w kier. dolnego prawego rogu 
+? &#8665; &#x21D9; ó \u21D9 \0021D9 Strza≥ka podwÛjna skoúna w kier. dolnego lewego rogu 
+? &#8629; &#x21B5; &crarr; \u21B5 \0021B5 Strza≥ka w dÛ≥ i lewo (jak na niektÛrych klawiaturach na klawiszu Enter) 
+Figury szachowe i kolory karciane 
+Znak (X)HTML Sek≠wen≠cja Java≠Script Sek≠wen≠cja CSS Uwagi 
+encja dzie≠siÍtna encja hex encja sym≠bo≠liczna 
+? &#9812; &#x2654; ó \u2654 \002654 Bia≥y krÛl 
+? &#9813; &#x2655; ó \u2655 \002655 Bia≥y hetman 
+? &#9814; &#x2656; ó \u2656 \002656 Bia≥a wieøa 
+? &#9815; &#x2657; ó \u2657 \002657 Bia≥y goniec 
+? &#9816; &#x2658; ó \u2658 \002658 Bia≥y skoczek 
+? &#9817; &#x2659; ó \u2659 \002659 Bia≥y pionek 
+? &#9818; &#x265A; ó \u265A \00265A Czarny krÛl 
+? &#9819; &#x265B; ó \u265B \00265B Czarny hetman 
+? &#9820; &#x265C; ó \u265C \00265C Czarna wieøa 
+? &#9821; &#x265D; ó \u265D \00265D Czarny goniec 
+? &#9822; &#x265E; ó \u265E \00265E Czarny skoczek 
+? &#9823; &#x265F; ó \u265F \00265F Czarny pionek 
+¶ &#9824; &#x2660; &spades; \u2660 \002660 Piki (symbol wype≥niony) 
+¶ &#9829; &#x2665; &hearts; \u2665 \002665 Kiery (symbol wype≥niony). Kolor uzyskany dziÍki stylowi 
+¶ &#9830; &#x2666; &diams; \u2666 \002666 Kara (symbol wype≥niony). Kolor uzyskany dziÍki stylowi 
+¶ &#9827; &#x2663; &clubs; \u2663 \002663 Trefle (symbol wype≥niony) 
+? &#9828; &#x2664; ó \u2664 \002664 Piki (kontur) 
+? &#9825; &#x2661; ó \u2661 \002661 Kiery (kontur). Kolor uzyskany dziÍki stylowi 
+? &#9826; &#x2662; ó \u2662 \002662 Kara (kontur). Kolor uzyskany dziÍki stylowi 
+? &#9831; &#x2668; ó \u2668 \002668 Trefle (kontur) 
+Nuty i symbole muzyczne 
+Znak (X)HTML Sek≠wen≠cja Java≠Script Sek≠wen≠cja CSS Uwagi 
+encja dzie≠siÍtna encja hex encja sym≠bo≠liczna 
+? &#9833; &#x2669; ó \u2669 \002669 ∆wierÊnuta 
+d &#9834; &#x266A; ó \u266A \00266A ”semka 
+d &#9835; &#x266B; ó \u266B \00266B Dwie Ûsemki po≥πczone 
+? &#9836; &#x266C; ó \u266C \00266C Dwie szesnastki po≥πczone 
+? &#9837; &#x266D; ó \u266D \00266D Bemol 
+? &#9838; &#x266E; ó \u266E \00266E Kasownik 
+? &#9839; &#x266F; ó \u266F \00266F Krzyøyk 
+Symbole ostrzegajπce o niebezpieczeÒstwie 
+Symbol (X)HTML Sek≠wen≠cja Java≠Script Sek≠wen≠cja CSS Uwagi 
+encja dzie≠siÍtna encja hex encja sym≠bo≠liczna 
+? &#9760; &#x2620; ó \u2620 \002620  
+? &#9762; &#x2622; ó \u2622 \002622  
+? &#9888; &#x26A0; ó \u26A0 \0026A0  
+? &#9889; &#x26A1; ó \u26A1 \0026A1  
+? &#9763; &#x2623; ó \u2623 \002623  
+? &#9761; &#x2621; ó \u2621 \002621  
+RÛøne symbole (dingbats) 
+Znaki z czcionek Wingdings i Webdings 
+Znak (X)HTML Sek≠wen≠cja Java≠Script Sek≠wen≠cja CSS Uwagi 
+encja dzie≠siÍtna encja hex encja sym≠bo≠liczna 
+? &#9785; &#x2639; ó \u2639 \002639 :-( 
+¢ &#9786; &#x263A; ó \u263A \00263A :-) 
+¢ &#9787; &#x263B; ó \u263B \00263B :-) (negatywowy) 
+? &#9986; &#x2702; ó \u2702 \002702 noøyczki 
+? &#9990; &#x2706; ó \u2706 \002706 telefon 
+? &#9992; &#x2708; ó \u2708 \002708 samolot 
+? &#10066; &#x2752; ó \u2752 \002752 Klatka z cieniem w gÛrnym prawym rogu 
+? &#10065; &#x2751; ó \u2751 \002751 Klatka z cieniem w dolnym prawym rogu 
+? &#10162; &#x27b2; ó \u27b2 \0027b2 Ozdobna srza≥ka w prawo 
+? &#9744; &#x2610; ñ \u2610 \002610 Klatka do zaznaczania (jak na formularzach) 
+? &#9746; &#x2612; ó \u2612 \002612 Klatka zaznaczona krzyøykiem 
+? &#9745; &#x2611; ó \u2611 \002611 Klatka zaznaczona po anglosasku (zaptaszona) 
+? &#9774; &#x262e; ó \u262e \00262e Pacyfa 
+? &#21328; &#x5350; ó \u5350 \005350  
+? &#9773; &#x262D; ó \u262D \00262D  
+Inne znaki specjalne 
+Znak (X)HTML Sek≠wen≠cja Java≠Script Sek≠wen≠cja CSS Uwagi 
+encja dzie≠siÍtna encja hex encja sym≠bo≠liczna 
+& &#38; &#x26; &amp; \u0026 \x26 \000026 * W jÍzyku polskim tzw. etka ñ w treúci dokumentu (X)HTML bezwzglÍdnie musi byÊ zakodowana w postaci encji 
+ß &#167; &#xA7; &sect; \u00A7 \xA7 \0000A7 *  
+ï &#8226; &#x2022; &bull; \u2022 \002022  
+ã &#8249; &#x2039; &lsaquo; \u2039 \002039 To jest znak cudzys≥owu uøywany w niektÛrych jÍzykach, nie myliÊ ze znakiem mniejszoúci ani ze strza≥kami 
+õ &#8250; &#x203A; &rsquo; \u203A \00203A To jest znak cudzys≥owu uøywany w niektÛrych jÍzykach, nie myliÊ ze znakiem wiÍkszoúci ani ze strza≥kami 
+Ü &#8224; &#x2020; &dagger; \u2020 \002020  
+á &#8225; &#x2021; &Dagger; \u2021 \002021  
+ô &#8482; &#x2122; &trade; \u2122 \002122 (tm) 
+Æ &#174; &#xAE; &reg; \u00AE \xAE \0000AE (r) 
+© &#169; &#xA9; &copy; \u00A9 \xA9 \0000A9 (c) 
+Ä &#8364; &#x20AC; &euro; \u20AC \0020AC Euro 
+c &#162; &#xA2; &cent; \u00A2 \xA2 \0000A2 Cent 
+L &#163; &#xA3; &pound; \u00A3 \xA3 \0000A3 Funt szterling 
+Y &#165; &#xA5; &yen; \u00A5 \xA5 \0000A5 JapoÒski jen 
+
+_________
+
